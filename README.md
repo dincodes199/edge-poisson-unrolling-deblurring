@@ -1,5 +1,3 @@
-# edge-poisson-unrolling-deblurring
-Edge Deployable Algorithm Unrolling for Photon-Limited Image Deblurring
 # Edge Deployable Algorithm Unrolling for Photon-Limited Image Deblurring
 
 Official repository for **"Edge Deployable Algorithm Unrolling for Photon-Limited Image Deblurring"** by Koyyada Dinesh Kumar and Sujit Kumar Sahoo, School of Electrical Sciences, Indian Institute of Technology Goa.
@@ -41,5 +39,5 @@ Citation details will be added upon publication.
 
 ## Contact
 
-Koyyada Dinesh Kumar — koyyada21242104@iitgoa.ac.in
+Koyyada Dinesh Kumar — koyyada21242104@iitgoa.ac.in  
 School of Electrical Sciences, Indian Institute of Technology Goa
